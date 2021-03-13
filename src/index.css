@@ -213,3 +213,8 @@ img {
 .Button:focus {
   background-color: #303f9f;
 }
+
+.spinnerContainer {
+  width: 100%;
+  text-align: center;
+}
